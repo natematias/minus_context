@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# configuration file
+config.yaml
+*.swp
+
 # C extensions
 *.so
 
