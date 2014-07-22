@@ -14,6 +14,6 @@ sudo pip install nltk feedparser HTMLParser twitter yaml
 4. To tweet, run 
 ```
 python tweet_minus_context.py
-``
+```
 
 Let us know what Twitter accounts you create!
